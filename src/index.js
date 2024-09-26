@@ -52,7 +52,7 @@ if (officeAppId) {
 
 
 bot.use(WechatyWebPanelPlugin({
-    apiKey: '填入微秘书平台apikey', apiSecret: '填入微秘书平台apisecret',
+    apiKey: '96e7f18fb1243eba0ec1657066d54a1da0518fd4', apiSecret: '10a9c841b8a618b715643e5cbf2d5c712395b4ac',
 }))
 bot.use(WechatyMessageRecordPlugin())
 bot.start()
